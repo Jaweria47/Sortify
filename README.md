@@ -1,6 +1,6 @@
 # Sortify - Sorting Algorithm Visualizer
 
-Sortify is a beginner-friendly sorting algorithm visualizer that allows users to see how different sorting techniques work in real time. The program supports **Bubble Sort** and **Insertion Sort**, with easy options to switch between **ascending and descending order**. 
+Sortify is a sorting algorithm visualizer that allows users to see how different sorting techniques work in real time. The program supports **Bubble Sort** and **Insertion Sort**, with easy options to switch between **ascending and descending order**. 
 
 ## ✨ Features
 Users can interact with the visualization by:
